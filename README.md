@@ -1,3 +1,8 @@
+the final res 
+
+![alt text](http://[url/to/img.png](https://github.com/abdul-RahmanAlaa/day2ReactJS/blob/master/public/screencapture-localhost-3000-2023-05-26-23_33_10.png?raw=true))
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
