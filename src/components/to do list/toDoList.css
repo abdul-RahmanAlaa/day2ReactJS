@@ -1,0 +1,18 @@
+.toDoList {
+  --bgColor: #444444;
+  list-style: none;
+  background-color: var(--bgColor);
+  border-radius: 2rem;
+  /* padding: 1rem; */
+}
+
+.toDoList > li {
+  background-color: var(--bgColor);
+  border-bottom: 1px #666666 solid;
+  margin: 1rem;
+  padding-left: 1rem;
+}
+
+.task {
+  background-color: var(--bgColor);
+}
